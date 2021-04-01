@@ -1,6 +1,6 @@
 #声明user微服务
 server:
-  port: 9001
+  port: 9002
 spring:
   application:
     name: microservice-user
